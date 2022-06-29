@@ -1,0 +1,16 @@
+14.899999999999999
+Shelvey Newcastle EUR 0 5.5 midfielders
+Bernardo ManCity usa 0 7.5 midfielders
+Shaqiri Liverpool Eur 0 6.5 midfielders
+Mahrez ManCity Usa 0 8.  midfielders
+Armstrong Southampton USA 98 5.5 midfielders
+Alisson Liverpool Eur 1 6.1  goalKeeper
+Arrizabalaga Chelsea EUR 0 5.0 goalKeeper
+Hause AstonVilla EUR 0 4.5 defender
+Alonso Chelsea EUR 0 6.0 defender
+Guilbert AstonVilla EUR 0 4.5  defender
+Nathan ManCity Netherlands 0 3.0  defender
+Pereira Leicester EUR 123 6.0   defender
+Origi Liverpool Usa 0 5.5 forward
+Giroud Chelsea EUR -2 7.-2 forward
+Vassilev AstonVilla EUR 0 4.5  forward

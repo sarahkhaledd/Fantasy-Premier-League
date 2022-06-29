@@ -1,0 +1,6 @@
+keoya ManCity usa 0 5.6 midfielder
+Nakamba AstonVilla EUR 0 4.5 midfielder
+Salah Liverpool EUR -4 10.0 midfielder
+Ziyech Chelsea EUR -1 8.0 midfielder
+Trézéguet AstonVilla EUR 0 5.5 midfielder
+Bernardo ManCity usa 0 7.5 midfielder

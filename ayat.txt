@@ -1,0 +1,14 @@
+0.7000000000000028
+Mane Liverpool EUR 0 12.0 midfielders
+keoya ManCity usa 0 5.6 midfielders
+Salah Liverpool EUR 3 10.0 midfielders
+Mahrez ManCity Usa 0 8. midfielders
+Lundstram SheffieldUtd EUR 144 5.5 midfielders
+Casilla Leeds Eur 0 4.5 goalKeeper
+Ederson ManCity Eur 0 6.0 goalKeeper
+Alonso Chelsea EUR 0 6.0 defender
+Gomez Liverpool EUR 0 5.5  defender
+Pereira Leicester EUR 123 6.0 defender
+Pereira Leicester EUR 123 6.0 defender
+Zouma Chelsea EUR -2 2.-2 defender
+Vardy Leicester EUR 210 10.0 forward

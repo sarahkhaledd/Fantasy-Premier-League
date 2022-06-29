@@ -1,0 +1,16 @@
+100.0
+Walker ManCity EUR 0 6.4 defender
+Nathan ManCity Netherlands 0 3.0 defender
+Mendy ManCity eur 0 6.0 defender
+Laporte ManCity usa 0 6.0 defender
+Cancelo ManCity usa 1 5.5 defender
+Agero ManCity EUR 0 10.5 forward
+Jesus ManCity USA 0 9.5 forward
+besa ManCity eur 1 4.3 forward
+Ederson ManCity Eur 1 6.1 goalkeepers
+Bravo ManCity Eur 1 4.5 goalkeepers
+Mahrez ManCity Usa 0 8.5 midfielder
+Bernardo ManCity usa 0 7.5 midfielder
+keoya ManCity usa 0 5.6 midfielder
+Sterling ManCity USA 0 11.5 midfielder
+DeBruyne ManCity EUR 0 11.5 midfielder
